@@ -10,6 +10,12 @@ All C++ basic programs here
 8. Write a Program to Toggle Each Character in a String 
 9. Write a Program to Count the Number of Vowels 
 13. Write a Program to Find the Sum of the First N Natural Numbers
+14. Write a Program to Find the Factorial of a Number Using Loops
+
+
+
+
+
 
 
 

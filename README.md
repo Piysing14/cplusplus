@@ -17,6 +17,7 @@ All C++ basic programs here
 15. Write a Program to Find a Leap Year or Not
 16. Write a Program to Check the Prime Number
 17. Write a Program to Find the Smallest and Largest Element in an Array
+18. Write a Program to Calculate the Sum of Elements in an Array
 
 
 

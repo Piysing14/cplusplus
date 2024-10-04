@@ -20,6 +20,8 @@ All C++ basic programs here
 18. Write a Program to Calculate the Sum of Elements in an Array
 19. Write a Program to Print a Diamond Pattern
 20. Write a Program to Print a Pyramid Pattern
+21. Write a Program to Print the Hourglass Pattern
+
 
 
 

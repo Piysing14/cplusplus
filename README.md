@@ -1,14 +1,14 @@
 All C++ basic programs here
 
-1. Write a C++ Program to Check Whether a Number is a Positive or Negative Number.
-2. Write a Program to Find the Greatest of the Three Numbers.
-3. C++ Program To Check Whether Number is Even Or Odd
-4. Write a Program to Find the ASCII Value of a Character
-5. Write a Program to Check Whether a Character is a Vowel or Consonant
-6. Write a Program to Print Check Whether a Character is an Alphabet or Not
-7. Write a Program to Find the Length of the String Without using strlen() Function 
-8. Write a Program to Toggle Each Character in a String 
-9. Write a Program to Count the Number of Vowels 
+01. Write a C++ Program to Check Whether a Number is a Positive or Negative Number.
+02. Write a Program to Find the Greatest of the Three Numbers.
+03. C++ Program To Check Whether Number is Even Or Odd
+04. Write a Program to Find the ASCII Value of a Character
+05. Write a Program to Check Whether a Character is a Vowel or Consonant
+06. Write a Program to Print Check Whether a Character is an Alphabet or Not
+07. Write a Program to Find the Length of the String Without using strlen() Function 
+08. Write a Program to Toggle Each Character in a String 
+09. Write a Program to Count the Number of Vowels 
 10. Write a Program to Remove the Vowels from a String
 11. Write a Program to Remove All Characters From a String Except Alphabets
 12. Write a Program to Remove Spaces From a String
@@ -21,6 +21,10 @@ All C++ basic programs here
 19. Write a Program to Print a Diamond Pattern
 20. Write a Program to Print a Pyramid Pattern
 21. Write a Program to Print the Hourglass Pattern
+22. Write a Program to Print the Rotated Hourglass Pattern
+23. Write a Program to Print the Given String in Reverse Order 
+
+
 
 
 

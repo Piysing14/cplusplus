@@ -21,7 +21,7 @@ All C++ basic programs here
 19. Write a Program to Print a Diamond Pattern
 20. Write a Program to Print a Pyramid Pattern
 21. Write a Program to Print the Hourglass Pattern
-22. Write a Program to Print the Rotated Hourglass Pattern
+22. Write a Program to  Swap the Values of Two Variables Without Using any Extra Variable
 23. Write a Program to Print the Given String in Reverse Order 
 
 

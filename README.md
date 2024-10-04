@@ -18,6 +18,8 @@ All C++ basic programs here
 16. Write a Program to Check the Prime Number
 17. Write a Program to Find the Smallest and Largest Element in an Array
 18. Write a Program to Calculate the Sum of Elements in an Array
+19. Write a Program to Print a Diamond Pattern
+
 
 
 

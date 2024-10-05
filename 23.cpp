@@ -1,5 +1,4 @@
-//23. Write a Program to Print the Given String in Reverse Order 
-
+//23. Write a Program to Print the Given String in Reverse Order
 #include<iostream>
 using namespace std;
 
@@ -16,6 +15,3 @@ int main(){
     }
     cout<<"\n";
 }
-
-    
-

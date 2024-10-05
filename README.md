@@ -23,6 +23,7 @@ All C++ basic programs here
 21. Write a Program to Print the Hourglass Pattern
 22. Write a Program to  Swap the Values of Two Variables Without Using any Extra Variable
 23. Write a Program to Print the Given String in Reverse Order 
+24. Write a Program to Check for the Equality of Two Numbers Without Using Arithmetic or Comparison Operator
 
 
 
